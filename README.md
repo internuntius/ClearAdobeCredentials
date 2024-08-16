@@ -102,3 +102,8 @@ The `ClearAdobeCredentials` function is designed to help you manage and clean up
 - **License:** MIT License
 
 By following these instructions, you can safely install and use the `ClearAdobeCredentials` function to manage your Adobe-related credentials in the Windows Credential Manager. This tool is designed with transparency and user control in mind, ensuring a smooth and safe experience.
+
+## Other Notes:
+- If you want to see your PowerShell profile or find the backup you can just type `$Profile` to see the path. 
+- If you want to edit your PowerShell profile you can type `notepad $Profile` or `code $Profile` to edit it in notepad or VS Code.
+- The backup this script makes has the .bak extension and is located in the same location as your profile.
