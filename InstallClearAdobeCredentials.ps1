@@ -1,4 +1,4 @@
-$scriptUrl = "https://raw.githubusercontent.com/your-repo/your-script.ps1"
+$scriptUrl = "https://raw.githubusercontent.com/internuntius/ClearAdobeCredentials/main/InstallClearAdobeCredentials.ps1"
 $scriptContent = (Invoke-WebRequest -Uri $scriptUrl).Content
 
 # Display the script content to the user
