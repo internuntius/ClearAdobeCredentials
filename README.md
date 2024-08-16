@@ -97,8 +97,8 @@ The `ClearAdobeCredentials` function is designed to help you manage and clean up
 ## Additional Information
 
 - **Version:** 1.0
-- **Author:** [Your Name or GitHub Username]
-- **Repository:** [Link to your GitHub Repository](https://github.com/internuntius/ClearAdobeCredentials)
-- **License:** MIT License (or your preferred license)
+- **Author:** Bryant Avey
+- **Repository:** https://github.com/internuntius/ClearAdobeCredentials
+- **License:** MIT License
 
 By following these instructions, you can safely install and use the `ClearAdobeCredentials` function to manage your Adobe-related credentials in the Windows Credential Manager. This tool is designed with transparency and user control in mind, ensuring a smooth and safe experience.
